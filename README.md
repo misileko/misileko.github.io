@@ -18,9 +18,7 @@ Dart: Linguagem de programação utilizada no Flutter.
 
 Random: Classe do Dart para gerar escolhas aleatórias.
 
-📷 Captura de Tela
-
-(Adicione aqui uma imagem do aplicativo rodando, se desejar)
+![Image](https://github.com/user-attachments/assets/fe479d6c-80ed-4eea-bbf0-4c8a229fb5b3)
 
 🚀 Como Executar
 
