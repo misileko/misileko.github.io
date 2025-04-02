@@ -18,29 +18,30 @@ Dart: Linguagem de programação utilizada no Flutter.
 
 Random: Classe do Dart para gerar escolhas aleatórias.
 
-![Image](https://github.com/user-attachments/assets/fe479d6c-80ed-4eea-bbf0-4c8a229fb5b3)
+![Image](https://github.com/user-attachments/assets/50f61a39-c31b-4a17-a7d7-70f7b7f3b55f)
 
 🚀 Como Executar
 
 Certifique-se de ter o Flutter instalado em seu ambiente.
 
-Clone este repositório:
+1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/jokenpo-flutter.git
+```git clone https://github.com/seu-usuario/jokenpo-flutter.git```
 
-Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
 
-cd jokenpo-flutter
+```cd jokenpo-flutter```
 
-Execute o aplicativo:
+3. Execute o aplicativo:
 
-flutter run
+```flutter run```
+
 
 📌 Estrutura do Projeto
 
 /lib
-  |-- main.dart   # Arquivo principal do aplicativo
-  |-- ./screens/jogo.dart   # Tela principal com interface do jogo e lógica do jogo.
+  |-- main.dart   # Arquivo principal do aplicativo  
+  |-- ./screens/jogo.dart   # Tela principal com interface e lógica do jogo.
 
 📄 Licença
 
